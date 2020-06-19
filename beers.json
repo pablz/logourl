@@ -1,0 +1,44 @@
+[
+    {
+      "nombre":"Blacky Posta",
+      "tipo":"Stout",
+      "alc": "10,8%",
+      "precio": "160",
+      "stock": "10"
+    },
+    {
+        "nombre":"Golden Sunset",
+        "tipo":"American Lager",
+        "alc": "5,2%",
+        "precio": "100",
+        "stock": "3"
+    },
+    {
+        "nombre":"Rambla Loca",
+        "tipo":"American IPA",
+        "alc": "6,8%",
+        "precio": "140",
+        "stock": "1"
+    },
+    {
+        "nombre":"La Propia",
+        "tipo":"Pale Ale",
+        "alc": "5,8%",
+        "precio": "150",
+        "stock": "30"
+    },
+    {
+        "nombre":"Barra Brava",
+        "tipo":"Strong Doppelbock",
+        "alc": "14%",
+        "precio": "250",
+        "stock": "10"
+    },
+    {
+        "nombre":"Icebreaker",
+        "tipo":"Ultra Strong Doppelbock",
+        "alc": "16%",
+        "precio": "250",
+        "stock": "5"
+    }
+  ]
