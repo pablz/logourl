@@ -1,0 +1,20 @@
+{
+    "bgs":[
+        {
+            "img":"https://cdn.jsdelivr.net/gh/pablz/logourl/barra-min.jpg"
+        },
+        {
+            "img":"https://cdn.jsdelivr.net/gh/pablz/logourl/bg-mountains-min.jpg"
+        },
+        {
+            "img":"https://cdn.jsdelivr.net/gh/pablz/logourl/lata-min.jpg"
+        },
+        {
+            "img":"https://cdn.jsdelivr.net/gh/pablz/logourl/sunset-min.jpg"
+        }
+    ],
+    "logo":{
+        "svg":"https://cdn.jsdelivr.net/gh/pablz/logourl/logo-beer-svg.svg",
+        "png":"https://cdn.jsdelivr.net/gh/pablz/logourl/logo-beer.png"
+    }
+}
