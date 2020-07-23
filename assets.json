@@ -11,10 +11,9 @@
         },
         {
             "bgmobile":"https://cdn.jsdelivr.net/gh/pablz/logourl/img-fondo-beer-mobile.jpg"
+        },
+        {
+            "logo":"https://cdn.jsdelivr.net/gh/pablz/logourl/logo.png"
         }
-    ],
-    "logo":{
-        "png":"https://cdn.jsdelivr.net/gh/pablz/logourl/logo.png"
-    },
- 
+    ]
 }
