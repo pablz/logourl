@@ -1,19 +1,7 @@
 {
-    "imgs":[
-        {
-            "jarra":"https://cdn.jsdelivr.net/gh/pablz/logourl/jarra.png"
-        },
-        {
-            "chorro":"https://cdn.jsdelivr.net/gh/pablz/logourl/chorro.png"
-        },
-        {
-            "bg":"https://cdn.jsdelivr.net/gh/pablz/logourl/img-fondo-beer.jpg"
-        },
-        {
-            "bgmobile":"https://cdn.jsdelivr.net/gh/pablz/logourl/img-fondo-beer-mobile.jpg"
-        },
-        {
-            "logo":"https://cdn.jsdelivr.net/gh/pablz/logourl/logo.png"
-        }
-    ]
+    "jarra":"https://cdn.jsdelivr.net/gh/pablz/logourl/jarra.png",
+    "chorro":"https://cdn.jsdelivr.net/gh/pablz/logourl/chorro.png",
+     "bg":"https://cdn.jsdelivr.net/gh/pablz/logourl/img-fondo-beer.jpg",
+    "bgmobile":"https://cdn.jsdelivr.net/gh/pablz/logourl/img-fondo-beer-mobile.jpg",
+    "logo":"https://cdn.jsdelivr.net/gh/pablz/logourl/logo.png"
 }
