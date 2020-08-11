@@ -5,42 +5,48 @@
       "tipo":"Stout",
       "alc": "10,8%",
       "precio": "160",
-      "stock": "10"
+      "stock": "10",
+      "sabor": "dulce",
     },
     {
         "nombre":"Golden Sunset",
         "tipo":"American Lager",
         "alc": "5,2%",
         "precio": "100",
-        "stock": "3"
+        "stock": "3",
+        "sabor": "amarga",
     },
     {
         "nombre":"Rambla Loca",
         "tipo":"American IPA",
         "alc": "6,8%",
         "precio": "140",
-        "stock": "1"
+        "stock": "1",
+        "sabor":"muy amarga",
     },
     {
         "nombre":"La Propia",
         "tipo":"Pale Ale",
         "alc": "5,8%",
         "precio": "150",
-        "stock": "30"
+        "stock": "30",
+        "sabor": "dulce",
     },
     {
         "nombre":"Barra Brava",
         "tipo":"Strong Doppelbock",
         "alc": "14%",
         "precio": "250",
-        "stock": "10"
+        "stock": "10",
+        "sabor":"amarga",
     },
     {
         "nombre":"Icebreaker",
         "tipo":"Ultra Strong Doppelbock",
         "alc": "16%",
         "precio": "250",
-        "stock": "5"
+        "stock": "5",
+        "sabor":"muy amarga",
     }
     ]
 
